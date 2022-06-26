@@ -9,4 +9,6 @@ JustAnotherN3rd/JustAnotherN3rd is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAnotherN3rd&theme=midnight-purple&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnotherN3rd&theme=midnight-purple&show_icons=true&layout=compact&card_width=445)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAnotherN3rd&theme=midnight-purple&show_icons=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api?username=JustAnotherN3rd&theme=midnight-purple&show_icons=true&layout=compact&card_width=445)
